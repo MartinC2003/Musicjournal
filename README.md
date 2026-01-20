@@ -177,7 +177,7 @@ Generated album description shouldn't have any syntax errors when created.
 ### APIs
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api)  
 - [Last.fm API](https://www.last.fm/api)
-- [Firebase](https://firebase.google.com/docs?gclsrc=aw.ds&gad_source=1&gad_campaignid=12301997661&gbraid=0AAAAADpUDOh01GOqIxN8O1Nu8OwVF4yPr&gclid=CjwKCAjw7_DEBhAeEiwAWKiCC8G6DvmHN4kIjBW9d9DOjf49B088Jz_VUVkqOp8IGSpfDw5871MZtxoCDuMQAvD_BwE)  
+gclsrc=aw.ds&gad_source=1&gad_campaignid=12301997661&gbraid=0AAAAADpUDOh01GOqIxN8O1Nu8OwVF4yPr&gclid=CjwKCAjw7_DEBhAeEiwAWKiCC8G6DvmHN4kIjBW9d9DOjf49B088Jz_VUVkqOp8IGSpfDw5871MZtxoCDuMQAvD_BwE)  
 
 ### Fonts
 - [Ethnocentric](https://www.dafont.com/ethnocentric.font)  
